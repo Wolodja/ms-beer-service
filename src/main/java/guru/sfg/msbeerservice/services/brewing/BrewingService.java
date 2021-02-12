@@ -1,7 +1,7 @@
 package guru.sfg.msbeerservice.services.brewing;
 
 import guru.sfg.msbeerservice.domain.Beer;
-import guru.sfg.common.events.BrewBeerEvent;
+import guru.sfg.brewery.model.events.BrewBeerEvent;
 import guru.sfg.msbeerservice.repositories.BeerRepository;
 import guru.sfg.msbeerservice.services.inventory.BeerInventoryService;
 import guru.sfg.msbeerservice.web.mappers.BeerMapper;
